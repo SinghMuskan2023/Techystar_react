@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UI-Design/static/css/main.1e727a67.css",
+    "main.js": "/UI-Design/static/js/main.7b4fe7c4.js",
+    "static/media/3.jpg": "/UI-Design/static/media/3.04220ae5e2dc07aa7c4a.jpg",
+    "static/media/purple.jpg": "/UI-Design/static/media/purple.2e965359fd275284af25.jpg",
+    "index.html": "/UI-Design/index.html",
+    "main.1e727a67.css.map": "/UI-Design/static/css/main.1e727a67.css.map",
+    "main.7b4fe7c4.js.map": "/UI-Design/static/js/main.7b4fe7c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e727a67.css",
+    "static/js/main.7b4fe7c4.js"
+  ]
+}
